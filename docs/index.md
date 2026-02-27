@@ -1,5 +1,4 @@
 ```markdown
---
 layout: home
 hero:
   name: C Cleaner Plus
@@ -55,5 +54,6 @@ features:
 4. 确认清理，释放空间
 
 [了解更多 →](/guide/)
+
 
 
