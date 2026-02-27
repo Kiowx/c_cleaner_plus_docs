@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /guide/overview
+      link: /guide/
     - theme: alt
       text: GitHub 仓库
       link: https://github.com/Kiowx/c_cleaner_plus
