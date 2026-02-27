@@ -1,3 +1,4 @@
+```markdown
 # 免责声明
 
 ::: danger 重要声明
