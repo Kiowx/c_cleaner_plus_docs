@@ -33,3 +33,4 @@
 ## Q7: 支持 Windows 7 吗？
 
 **A:** 不支持。仅支持 Windows 10 / Windows 11。
+```
