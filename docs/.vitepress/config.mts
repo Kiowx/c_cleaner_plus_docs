@@ -4,23 +4,13 @@ export default defineConfig({
   title: 'C Cleaner Plus',
   description: 'Windows C 盘强力清理工具文档',
   
-  // ⚠️ 关键：必须与仓库名完全一致
+  // ⚠️ 必须与仓库名完全一致
   base: '/c_cleaner_plus_docs/',
   
   lastUpdated: true,
   cleanUrls: true,
-  
-  // ✅ 添加 srcDir 明确指定文档目录
-  srcDir: './docs',
-  
-  head: [
-    ['link', { rel: 'icon', href: '/logo.png' }],
-    ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }]
-  ],
 
   themeConfig: {
-    logo: '/logo.png',
-    
     nav: [
       { text: '首页', link: '/' },
       { text: '指南', link: '/guide/' },
