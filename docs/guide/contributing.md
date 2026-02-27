@@ -16,5 +16,5 @@
 
 ## 联系方式
 
-- **QQ 交流群**：点击加入（见原文档链接）
-- **GitHub Issues**：提交问题（见原文档链接）
+- **QQ 交流群**：[点击加入](https://qm.qq.com/q/xE1xw9wP7M)
+- **GitHub Issues**：[提交问题](https://github.com/Kiowx/c_cleaner_plus/issues)
