@@ -1,29 +1,48 @@
 ---
-layout: home
-
-hero:
-  name: C Cleaner Plus
-  text: Windows C 盘强力清理工具
-  tagline: Python + Fluent 2 Design · 开源免费 · 安全可靠
-  actions:
-    - theme: brand
-      text: 快速开始
-      link: /guide/overview
-    - theme: alt
-      text: GitHub 仓库
-      link: https://github.com/Kiowx/c_cleaner_plus
-
-features:
-  - title: 简洁易用
-    details: 直观的 GUI 界面，适合各类用户
-  - title: 安全可靠
-    details: 完善警告机制，支持系统还原点与回收站模式
-  - title: 功能全面
-    details: 垃圾文件/大文件/重复文件/系统残留/卸载等全覆盖
-  - title: 开源透明
-    details: 代码完全开放，无隐藏功能
+title: 指南
 ---
 
-::: tip 提示
-本网站内容由你提供的《C Cleaner Plus 项目文档（文档版本 1.0，最后更新：2026 年）》移植生成。
-:::
+# 指南
+
+这里汇总了 **C Cleaner Plus** 的完整文档导航，你可以从下方选择要阅读的章节。
+
+## 📌 快速入口
+
+- 👉 **从零开始了解项目**：[/guide/overview](/guide/overview)
+- 👉 **直接看怎么用**：[/guide/usage](/guide/usage)
+- 👉 **安装与运行**：[/guide/install](/guide/install)
+- 👉 **配置文件与自定义规则**：[/guide/config](/guide/config)
+
+---
+
+## 📚 文档目录
+
+### 1) 项目
+
+- [项目概述](/guide/overview)
+- [功能特性](/guide/features)
+- [技术架构](/guide/architecture)
+- [系统要求](/guide/requirements)
+
+### 2) 上手
+
+- [安装指南](/guide/install)
+- [使用手册](/guide/usage)
+- [配置说明](/guide/config)
+
+### 3) 安全与维护
+
+- [安全与权限](/guide/security)
+- [常见问题](/guide/faq)
+- [更新日志](/guide/changelog)
+
+### 4) 社区
+
+- [贡献指南](/guide/contributing)
+- [免责声明](/guide/disclaimer)
+
+---
+
+## 🔗 相关链接
+
+- GitHub：<https://github.com/Kiowx/c_cleaner_plus>
