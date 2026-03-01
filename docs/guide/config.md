@@ -2,13 +2,13 @@
 
 ## 配置文件位置
 
-所有配置文件位于 `%LOCALAPPDATA%` 目录下：
+所有配置文件位于软件当前目录下：
 
 | 文件 | 用途 |
 |------|------|
-| `cdisk_cleaner_config.json` | 常规清理勾选状态与拖拽排序 |
-| `cdisk_cleaner_custom_rules.json` | 自定义清理规则 |
-| `cdisk_cleaner_global_settings.json` | 全局设置（自动保存、更新通道） |
+| `configs\cdisk_cleaner_config.json` | 常规清理勾选状态与拖拽排序 |
+| `configs\cdisk_cleaner_custom_rules.json` | 自定义清理规则 |
+| `configs\cdisk_cleaner_global_settings.json` | 全局设置（自动保存、更新通道） |
 | `%TEMP%\cdisk_cleaner_cache.json` | 硬盘类型检测缓存 |
 
 ---
